@@ -1,2 +1,2 @@
-# sql-dwh-1st-project
+# sql-dwh-project
 Building a modern data warehouse with python, SQL, including ETL processes, data modeling and analytics
